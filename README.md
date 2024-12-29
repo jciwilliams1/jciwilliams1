@@ -6,7 +6,7 @@ href=>Scrum Master</a></h1>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](https://github.com/jciwilliams/SQL_Techniques.git)
+  - [Demonstrating SQL Techniques](https://github.com/jciwilliams1/SQL_Techniques/blob/main/README.md)
 - <b>🎨Power BI Project</b>
   - [Demonstrating Data Visualization](https://jciwilliams.github.io/)
 - <b>📝Data Story Telling</b>
