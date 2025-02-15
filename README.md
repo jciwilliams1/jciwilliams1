@@ -5,10 +5,7 @@ href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a></h1>
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/jciwilliams1/SQL_Techniques/blob/main/README.md)
-- <b>🎨Power BI Project</b>
-  - [Demonstrating Data Visualization](https://jciwilliams.github.io/)
-- <b>📝Data Story Telling</b>
-  - [Telling the Story Behind the Data](https://jciwilliams.github.io/)
+
 
 <h2>📚Certifications:</h2>
 
