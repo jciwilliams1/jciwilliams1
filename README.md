@@ -9,7 +9,7 @@ href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a></h1>
 <h2>📚Certifications:</h2>
 
 - <b>🧐Scrum Master</b>
-  - [Demonstrating Project Management](https://jciwilliams.github.io/)
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://jciwilliams.github.io/)
 
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/williams-janelle/" target="_blank">
