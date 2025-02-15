@@ -6,12 +6,11 @@ href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a></h1>
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/jciwilliams1/SQL_Techniques/blob/main/README.md)
 
-
 <h2>📚Certifications:</h2>
 
 - <b>🧐Scrum Master</b>
   - [Demonstrating Project Management](https://jciwilliams.github.io/)
-<h2>📺 Popular YouTube Videos</h2>
+
 
 
 <h2>📱Connect with me:</h2>
@@ -20,9 +19,5 @@ href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a></h1>
 </a>
 
 
-
-<!--
-**jciwilliams1/jciwilliams1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 
