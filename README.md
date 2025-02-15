@@ -11,8 +11,6 @@ href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a></h1>
 - <b>🧐Scrum Master</b>
   - [Demonstrating Project Management](https://jciwilliams.github.io/)
 
-
-
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/williams-janelle/" target="_blank">
   <img align="left" alt="Janelle Williams" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
