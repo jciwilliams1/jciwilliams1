@@ -8,7 +8,7 @@ href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a>
   - [Demonstrating SQL Techniques](https://github.com/jciwilliams1/SQL_Techinques)
 
 - <b>💾blah blah Project</b>
-  - [Demonstrating blah Techniques](https://github.com/jciwilliams1/SQL_Techinques)
+  - [Demonstrating blah Techniques](https://github.com/jciwilliams1/blah_blah_tech)
 
 <h2>📚Certifications:</h2>
 
