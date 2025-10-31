@@ -7,6 +7,9 @@ href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a>
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/jciwilliams1/SQL_Techinques)
 
+- <b>💾blah blah Project</b>
+  - [Demonstrating blah Techniques](https://github.com/jciwilliams1/SQL_Techinques)
+
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
