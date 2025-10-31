@@ -10,11 +10,11 @@ href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a>
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](www.linkedin.com/in/williams-janelle)
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.linkedin.com/in/williams-janelle/)
 
 
 <h2>📱Connect with me:</h2>
-<a href="www.linkedin.com/in/williams-janelle" target="_blank">
+<a href="https://www.linkedin.com/in/williams-janelle/" target="_blank">
   <img align="left" alt="Janelle W. | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
