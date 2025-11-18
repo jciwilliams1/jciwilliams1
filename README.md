@@ -5,8 +5,11 @@ href="https://www.linkedin.com/in/williams-janelle/">Scrum Master Analyst</a>
 
 <h2>📊Data Analytics Projects:</h2>
 
-- <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](https://github.com/jciwilliams1/SQL_Techinques)
+- <b>💾Banking Project</b>
+  - [Demonstrating SQL Fundamentals for Data Analysis for Stillwater Community Bank](https://github.com/jciwilliams1/SQL_Techinques)
+
+- <b>💾blah blah Project</b>
+  - [Demonstrating blah Techniques](https://github.com/jciwilliams1/SQL_Techinques)
 
 - <b>💾Advance SQL Project</b>
   - [Demonstrating Advance SQL Techniques](https://github.com/jciwilliams1/SQL_Techinques)
