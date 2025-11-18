@@ -12,6 +12,9 @@ href="https://www.linkedin.com/in/williams-janelle/">IT Reporting Data Analyst</
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated competency in beginner to intermediate SQL skills](https://www.linkedin.com/in/williams-janelle/)
 
+- <b>📜Advanced SQL Boot Camp</b>
+  - [Demonstrated competency in advanced SQL skills](https://www.linkedin.com/in/williams-janelle/)
+
 
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/williams-janelle/" target="_blank">
