@@ -6,6 +6,7 @@ href="https://www.linkedin.com/in/williams-janelle/">Jr. Data Analyst</a>
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/jciwilliams1/SQL_Techniques/blob/main/README.md)
+  - [TEST Demonstrating Advance SQL Techniques](NEED NEW LINK)
 
 <h2>📚Certifications:</h2>
 
