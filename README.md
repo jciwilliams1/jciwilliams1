@@ -1,5 +1,7 @@
 <h1>Hi, I'm Janelle C Williams! <br/><a 
-href="https://www.linkedin.com/in/williams-janelle/">Jr. Data Analyst</a>
+href="https://www.linkedin.com/in/williams-janelle/">Jr. Data Analyst</a>, <a
+href=>Scrum Master</a>, <a
+href=>TEST ROLE</a>                       
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
