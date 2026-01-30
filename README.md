@@ -6,7 +6,7 @@ href="https://www.linkedin.com/in/williams-janelle/">Jr. Data Analyst</a>
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/jciwilliams1/SQL_Techniques/blob/main/README.md)
-  - [TEST Demonstrating Advance SQL Techniques](NEED NEW LINK)
+  - [TEST Demonstrating Advance SQL Techniques](https://github.com/jciwilliams1/NEW_TEST_PROJECT/blob/main/README.md)
 
 - <b>💾TEST Project</b>
   - [Demonstrating TEST Techniques](NEED NEW LINK)
@@ -16,6 +16,9 @@ href="https://www.linkedin.com/in/williams-janelle/">Jr. Data Analyst</a>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated competency in beginner to intermediate SQL skills](https://www.credly.com/badges/edbdb71e-a475-4096-8500-29077292a5b0/linked_in_profile)
+- <b>📜Advance SQL Boot Camp</b>
+  - [Demonstrated competency in Advance SQL skills](NEED TO LINK)
+
 
 
 <h2>📱Connect with me:</h2>
