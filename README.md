@@ -26,6 +26,8 @@ href=>TEST ROLE</a>
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/williams-janelle/" target="_blank">
   <img align="left" alt="Janelle Williams" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="jwilliams@exctraining.com" target="_blank">
+  <img align="left" alt="Janelle Williams" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 
