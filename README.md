@@ -6,7 +6,7 @@ href=>Scrum Master</a></h1>
 
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/jciwilliams1/SQL_Techniques)
-  - [Demonstrating Advance SQL Foundation](Placeholder URL Link)
+  - [Demonstrating Advance SQL Foundation](https://github.com/jciwilliams1/Advance_SQL_Foundation)
 
 - <b>💾Power BI Project</b>
   - [Demonstrating BI Skills](Place holder URL Link)
