@@ -5,7 +5,7 @@ href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/jciwilliams1/SQL_Techniques)
 
 <h2>📚Certifications:</h2>
 
