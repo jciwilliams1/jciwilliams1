@@ -11,6 +11,15 @@ href=>Scrum Master</a></h1>
 - <b>💾Power BI Project</b>
   - [Demonstrating BI Skills](Place holder URL Link)
 
+<h2>📊DBA and Automation Projects:</h2>
+
+- <b>💾DBA Project</b>
+  - [Demonstrating DBA Techniques](https://github.com/jciwilliams1/SQL_Techniques)
+
+- <b>💾Automation Project</b>
+  - [Demonstrating Automation through Python Skills](Place holder URL Link)
+
+
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
