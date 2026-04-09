@@ -1,5 +1,6 @@
 <h1>Hi, I'm Janelle Williams! <br/><a 
-href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a>
+href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a>, <a
+href=>Scrum Master</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
@@ -12,6 +13,8 @@ href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a>
 - <b>📜Spring 2026 Tivoli + eXcelerate Data Analytics Internship Training Program</b>
   - [Demonstrated compentency in advanced SQL and Excel skills](https://www.credly.com/badges/9b426089-4b38-448d-b70a-fe0c767a0e04/linked_in_profile)
 
+- <b>📜Internship Training Program</b>
+  - [Placeholder](Placeholder Link)
 
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/williams-janelle/" target="_blank">
