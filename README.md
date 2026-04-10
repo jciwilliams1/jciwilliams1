@@ -16,6 +16,12 @@ href=>Scrum Master</a>
 
 - <b>📜Internship Training Program</b>
   - [Placeholder](Placeholder Link)
+ 
+
+<h2>📚Letters of Recommendation:</h2>
+
+- <b>📜Spring 2026 Tivoli + eXcelerate Data Analytics Internship Training Program</b>
+  - [TBD](https://www.credly.com/badges/9b426089-4b38-448d-b70a-fe0c767a0e04/linked_in_profile)
 
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/williams-janelle/" target="_blank">
