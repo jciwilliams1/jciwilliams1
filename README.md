@@ -20,8 +20,8 @@ href=>Scrum Master</a>
 
 <h2>📚Letters of Recommendation:</h2>
 
-- <b>📜Spring 2026 Tivoli + eXcelerate Data Analytics Internship Training Program</b>
-  - [TBD](Skills.pdf)
+- <b>📜[Spring 2026 Tivoli + eXcelerate Data Analytics Internship Training Program</b>](Skills.pdf)
+ 
 
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/williams-janelle/" target="_blank">
