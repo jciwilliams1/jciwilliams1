@@ -8,8 +8,8 @@ href=>Scrum Master</a>
 - <b>💾SQL Project</b>
   - [Food and Beverage Revenue Analysis for Arts Nonprofit](https://github.com/jciwilliams1/Food_Beverage_Revenue_Analysis_for_Arts_Nonprofit)
  
-- <b>💾Power BI Project</b>
-  - [Executive Box Office Sales Dashboard](PLACEHOLDER)
+- <b>💾 New Project not Power BI Project</b>
+  - [Executive Box Office Sales Dashboard](https://github.com/jciwilliams1/new_project)
 
 <h2>📚Certifications:</h2>
 
