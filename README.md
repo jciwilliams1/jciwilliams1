@@ -1,6 +1,19 @@
-# Hi, I'm YOUR NAME HERE!
 
-### [Data Analyst](https://www.linkedin.com/in/williams-janelle/)
+<h1>Hi, I'm YOUR NAME HERE!</h1>
+
+<!-- COMMENT START: SQL PROJECTS -->
+<h2>
+  <a href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a> 
+</h2>
+<!-- COMMENT END: SQL PROJECTS -->
+
+<!-- COMMENT START: SQL PROJECTS -->
+<h2>
+  <a href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a> |
+  <a href="https://www.linkedin.com/in/williams-janelle/">Scrum Master</a> |
+  <a href="https://www.linkedin.com/in/williams-janelle/">Python Instructor</a>
+</h2>
+<!-- COMMENT END: SQL PROJECTS -->
 
 ---
 
@@ -60,14 +73,14 @@
 
 ## 📚 Certifications
 
-<!-- COMMENT START: BOOTCAMP CERTIFICATE -->
-<!-- Keep only if you completed the bootcamp. -->
 
-### 🎓 Bootcamp Certificate of Completion
+<!-- COMMENT START: BEGINNER TO INTERMEDIATE SQL BOOTCAMP -->
+<!-- Keep this section if you completed this bootcamp. -->
 
-- [eXcelerate Bootcamp Certificate of Completion](INSERT_CERTIFICATE_URL_HERE)
+### 📜 Beginner to Intermediate SQL Boot Camp
+  - [Demonstrated proficiency in foundational and intermediate SQL concepts through hands-on exercises and practical data analysis.](INSERT_CERTIFICATE_OF_COMPLETION_URL_HERE)
 
-<!-- COMMENT END: BOOTCAMP CERTIFICATE -->
+<!-- COMMENT END: BEGINNER TO INTERMEDIATE SQL BOOTCAMP -->
 
 
 <!-- COMMENT START: CAP CERTIFICATE - SQL AND EXCEL -->
