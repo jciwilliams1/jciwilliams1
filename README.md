@@ -122,6 +122,16 @@
 
 ---
 
+
 ## 📱 Connect With Me
 
-[LinkedIn Profile](INSERT_LINKEDIN_PROFILE_URL_HERE)
+<a href="INSERT_LINKEDIN_PROFILE_URL_HERE" target="_blank">
+  <img
+    align="left"
+    alt="LinkedIn Profile"
+    width="22px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+  />
+</a>
+
+<!-- THIS IS A COMMENT: One small recommendation: I would change align="left" to remove the alignment attribute entirely if the icon appears too close to other content. Otherwise, your existing approach works well.-->
