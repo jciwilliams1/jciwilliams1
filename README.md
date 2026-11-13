@@ -1,21 +1,27 @@
+<h1>Hi, I'm YOUR NAME HERE! 👋</h1>
 
-<h1>Hi, I'm YOUR NAME HERE!</h1>
+<!-- COMMENT START: SINGLE PROFESSIONAL ROLE -->
+<!-- Keep this option if you want to display only one role. -->
+<!-- DELETE THE MULTIPLE PROFESSIONAL ROLES OPTION IF USING THIS OPTION. -->
 
-<!-- COMMENT START: SQL PROJECTS -->
 <h2>
-  <a href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a> 
+  <a href="INSERT_LINKEDIN_PROFILE_URL_HERE">Data Analyst</a>
 </h2>
-<!-- COMMENT END: SQL PROJECTS -->
 
-<!-- COMMENT START: SQL PROJECTS -->
+<!-- COMMENT END: SINGLE PROFESSIONAL ROLE -->
+
+
+<!-- COMMENT START: MULTIPLE PROFESSIONAL ROLES -->
+<!-- Keep this option if you want to display multiple roles. -->
+<!-- DELETE THE SINGLE PROFESSIONAL ROLE OPTION IF USING THIS OPTION. -->
+
 <h2>
-  <a href="https://www.linkedin.com/in/williams-janelle/">Data Analyst</a> |
-  <a href="https://www.linkedin.com/in/williams-janelle/">Scrum Master</a> |
-  <a href="https://www.linkedin.com/in/williams-janelle/">Python Instructor</a>
+  <a href="INSERT_LINKEDIN_PROFILE_URL_HERE">Data Analyst</a> |
+  <a href="INSERT_LINKEDIN_PROFILE_URL_HERE">Scrum Master</a> |
+  <a href="INSERT_LINKEDIN_PROFILE_URL_HERE">Python Instructor</a>
 </h2>
-<!-- COMMENT END: SQL PROJECTS -->
 
----
+
 
 ## 📊 Data Analytics Projects
 
@@ -69,18 +75,29 @@
 
 <!-- COMMENT END: TABLEAU PROJECTS -->
 
+
 ---
 
 ## 📚 Certifications
-
 
 <!-- COMMENT START: BEGINNER TO INTERMEDIATE SQL BOOTCAMP -->
 <!-- Keep this section if you completed this bootcamp. -->
 
 ### 📜 Beginner to Intermediate SQL Boot Camp
-  - [Demonstrated proficiency in foundational and intermediate SQL concepts through hands-on exercises and practical data analysis.](INSERT_CERTIFICATE_OF_COMPLETION_URL_HERE)
+
+- [Demonstrated proficiency in foundational and intermediate SQL concepts through hands-on exercises and practical data analysis.](INSERT_CERTIFICATE_OF_COMPLETION_URL_HERE)
 
 <!-- COMMENT END: BEGINNER TO INTERMEDIATE SQL BOOTCAMP -->
+
+
+<!-- COMMENT START: PYTHON BOOT CAMP -->
+<!-- Keep this section if you completed this bootcamp. -->
+
+### 📜 Beginner to Intermediate Python Boot Camp
+
+- [Developed Python skills in data analysis, SQL-to-Python translation, script development, and Google Drive automation.](INSERT_PYTHON_CERTIFICATE_URL_HERE)
+
+<!-- COMMENT END: PYTHON BOOT CAMP -->
 
 
 <!-- COMMENT START: CAP CERTIFICATE - SQL AND EXCEL -->
@@ -101,6 +118,7 @@
 - [Demonstrated competency in SQL and Power BI through hands-on business reporting, data analysis, and interactive dashboard development.](INSERT_CERTIFICATE_URL_HERE)
 
 <!-- COMMENT END: CAP CERTIFICATE - SQL AND POWER BI -->
+
 
 ---
 
